@@ -26,7 +26,7 @@ make
 ```
 
 
-3. Run the following script, which starts 4 unopposed "intermittent" processes and assign them to the "hw" cgroup (assuming $CLIENTS=4):
+3. Run the following script, which starts 4 unopposed "intermittent" processes and assigns them to the "hw" cgroup (assuming $CLIENTS=4):
 
 ```
 ./run_intermittent_standalone_bench.sh
